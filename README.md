@@ -1,7 +1,7 @@
 # Reviews
 
 ### Overview
-A Reviews App where users can navigate foreard, backwward or click a button to dsplay a random review.
+A Reviews App where users can navigate foreward, backwward or click a button to dsplay a random review.
 
 
 ### How to start
